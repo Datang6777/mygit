@@ -1,1 +1,2 @@
-echo 123iee8;
+<?php
+echo 1235;
